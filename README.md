@@ -21,4 +21,3 @@ Generic reposiroty nin tek parametresi
 
 ```Expression<Func<Entity, bool>> expression```  olacak. :)
 
-
